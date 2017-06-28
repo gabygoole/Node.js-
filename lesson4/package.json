@@ -1,0 +1,16 @@
+{
+  "name": "emit",
+  "version": "1.0.0",
+  "description": "控制并发",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaby",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "eventproxy": "^0.3.5",
+    "superagent": "^3.5.2"
+  }
+}
