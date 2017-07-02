@@ -1,0 +1,11 @@
+{
+  "name": "nope",
+  "version": "1.0.0",
+  "description": "chaijs should",
+  "main": "index.html",
+  "scripts": {
+    "test": "mocha-phantomjs index.html --ssl-protocol=any --ignore-ssl-errors=true"
+  },
+  "author": "gaby",
+  "license": "ISC"
+}
